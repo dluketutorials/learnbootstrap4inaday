@@ -30,3 +30,11 @@ nav{
 .navbar-nav .nav-item .nav-link:hover{
     color: blue;
 }
+
+body{
+    margin-top: 5%;
+}
+
+.navbar-nav .nav-item .nav-link.active{
+    color: yellow;
+}
