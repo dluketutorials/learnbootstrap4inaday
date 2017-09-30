@@ -1,0 +1,32 @@
+.btn-new-color{
+    background: aqua;
+    color: #fff;
+}
+
+.btn-new-font{
+    font-size: 25px;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.dropdown{
+    padding-bottom:20%;
+}
+
+form{
+    margin-bottom: 5%;
+}
+
+nav{
+    background: aquamarine;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: blue;
+}
